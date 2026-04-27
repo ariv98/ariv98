@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Arivazhagan S — AI Engineer, Agentic Systems Architect, Full Stack Developer" />
+<title>Arivazhagan S · AI Engineer & Agentic Systems Architect</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<canvas id="bg-canvas"></canvas>
+
+<!-- ============== NAVBAR ============== -->
+<nav class="navbar" id="navbar">
+  <div class="nav-container">
+    <a href="#hero" class="logo">
+      <span class="logo-bracket">&lt;</span>AS<span class="logo-bracket">/&gt;</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#ai">AI Engineering</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#contact" class="nav-cta">Contact</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger" aria-label="menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<!-- ============== HERO ============== -->
+<section id="hero" class="hero">
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="status-dot"></span>
+      <span>Available for AI Engineering Roles</span>
+    </div>
+
+    <h1 class="hero-title">
+      <span class="hero-greeting">Hi, I'm</span>
+      <span class="gradient-text">Arivazhagan S</span>
+    </h1>
+
+    <h2 class="hero-subtitle">
+      <span id="typed"></span><span class="cursor">|</span>
+    </h2>
+
+    <p class="hero-description">
+      Senior Product Software Engineer architecting <strong>agentic AI systems</strong>,
+      custom MCP servers, and enterprise automation workflows that
+      <em>think, decide, and execute</em> at scale.
+    </p>
+
+    <div class="hero-stats">
+      <div class="stat">
+        <div class="stat-value" data-target="248">0</div>
+        <div class="stat-label">MCP Tools Built</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <div class="stat-value" data-target="5">0</div>
+        <div class="stat-label">Years Experience</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <div class="stat-value" data-target="4">0</div>
+        <div class="stat-label">Enterprise Clients</div>
+      </div>
+    </div>
+
+    <div class="hero-cta">
+      <a href="#experience" class="btn btn-primary">
+        <i class="fa-solid fa-rocket"></i>
+        Explore My Work
+      </a>
+      <a href="#contact" class="btn btn-secondary">
+        <i class="fa-solid fa-paper-plane"></i>
+        Get in Touch
+      </a>
+    </div>
+
+    <div class="hero-socials">
+      <a href="https://www.linkedin.com/in/ariv98" target="_blank" rel="noopener" aria-label="LinkedIn">
+        <i class="fa-brands fa-linkedin-in"></i>
+      </a>
+      <a href="https://github.com/ariv98" target="_blank" rel="noopener" aria-label="GitHub">
+        <i class="fa-brands fa-github"></i>
+      </a>
+      <a href="mailto:arivazhaganazhagan98@gmail.com" aria-label="Email">
+        <i class="fa-solid fa-envelope"></i>
+      </a>
+      <a href="tel:+917010009295" aria-label="Phone">
+        <i class="fa-solid fa-phone"></i>
+      </a>
+      <a href="https://twitter.com/ariv98azhagan" target="_blank" rel="noopener" aria-label="X">
+        <i class="fa-brands fa-x-twitter"></i>
+      </a>
+    </div>
+  </div>
+
+  <div class="scroll-indicator">
+    <span>Scroll</span>
+    <div class="scroll-line"></div>
+  </div>
+</section>
+
+<!-- ============== ABOUT / PERSONAL INFO ============== -->
+<section id="about" class="section">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-num">01</span>
+      <h2 class="section-title">Personal <span class="gradient-text">Information</span></h2>
+      <p class="section-sub">Who's behind the code</p>
+    </div>
+
+    <div class="about-grid">
+      <div class="about-code reveal">
+        <div class="code-window">
+          <div class="code-header">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+            <span class="code-title">arivazhagan.py</span>
+          </div>
+          <pre class="code-body"><code><span class="kw">@AI_Engineer</span>
+<span class="kw">class</span> <span class="cls">Arivazhagan_S</span>:
+    full_name = <span class="str">"Arivazhagan S"</span>
+    title     = <span class="str">"Senior Product SW Engineer"</span>
+    company   = <span class="str">"Wolters Kluwer ELM Solutions"</span>
+    location  = <span class="str">"Chennai, Tamil Nadu, India"</span>
+
+    contact = {
+        <span class="str">"📱 mobile"</span>:   <span class="str">"+91 70100 09295"</span>,
+        <span class="str">"📧 email"</span>:    <span class="str">"arivazhaganazhagan98@gmail.com"</span>,
+        <span class="str">"💼 linkedin"</span>: <span class="str">"linkedin.com/in/ariv98"</span>,
+    }
+
+    <span class="kw">def</span> <span class="fn">mission</span>(<span class="kw">self</span>):
+        <span class="kw">return</span> (
+            <span class="str">"Architect agentic AI systems "</span>
+            <span class="str">"that think, decide, and execute "</span>
+            <span class="str">"at enterprise scale."</span>
+        )</code></pre>
+        </div>
+      </div>
+
+      <div class="about-info reveal">
+        <h3 class="about-heading">Building the Future, One Agent at a Time.</h3>
+        <p>
+          I'm a Senior Product Software Engineer specializing in
+          <strong>Agentic AI architecture</strong>, enterprise Java systems,
+          and intelligent automation. My work focuses on bridging the gap between
+          human intent and machine execution.
+        </p>
+        <p>
+          From designing MCP servers with 248+ tools to building custom AI knowledge
+          engines without RAG — I architect systems that solve real enterprise problems.
+        </p>
+
+        <ul class="about-meta">
+          <li><i class="fa-solid fa-briefcase"></i> Senior Product Software Engineer</li>
+          <li><i class="fa-solid fa-building"></i> Wolters Kluwer ELM Solutions</li>
+          <li><i class="fa-solid fa-location-dot"></i> Chennai, Tamil Nadu, India</li>
+          <li><i class="fa-solid fa-graduation-cap"></i> B.Tech — Information Technology</li>
+        </ul>
+
+        <div class="about-actions">
+          <a href="https://www.linkedin.com/in/ariv98" target="_blank" rel="noopener" class="btn btn-outline">
+            <i class="fa-brands fa-linkedin-in"></i> LinkedIn
+          </a>
+          <a href="mailto:arivazhaganazhagan98@gmail.com" class="btn btn-outline">
+            <i class="fa-solid fa-envelope"></i> Email Me
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============== TECHNICAL SKILLS ============== -->
+<section id="skills" class="section section-alt">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-num">02</span>
+      <h2 class="section-title">Technical <span class="gradient-text">Skills</span></h2>
+      <p class="section-sub">My engineering arsenal</p>
+    </div>
+
+    <div class="skills-grid">
+      <div class="skill-card reveal">
+        <div class="skill-icon"><i class="fa-solid fa-server"></i></div>
+        <h3>Backend</h3>
+        <div class="skill-tags">
+          <span>Core &amp; Advanced Java 11+</span>
+          <span>Spring Boot</span>
+          <span>Microservices</span>
+          <span>RESTful APIs</span>
+          <span>Maven</span>
+          <span>JUnit</span>
+          <span>Groovy</span>
+        </div>
+      </div>
+
+      <div class="skill-card reveal">
+        <div class="skill-icon"><i class="fa-solid fa-palette"></i></div>
+        <h3>Frontend</h3>
+        <div class="skill-tags">
+          <span>Angular v8</span>
+          <span>Bootstrap</span>
+          <span>HTML5</span>
+          <span>CSS3</span>
+          <span>JavaScript</span>
+        </div>
+      </div>
+
+      <div class="skill-card reveal">
+        <div class="skill-icon"><i class="fa-solid fa-cloud"></i></div>
+        <h3>Cloud</h3>
+        <div class="skill-tags">
+          <span>AWS</span>
+          <span>PCF (Pivotal Cloud Foundry)</span>
+          <span>Azure</span>
+        </div>
+      </div>
+
+      <div class="skill-card reveal">
+        <div class="skill-icon"><i class="fa-solid fa-database"></i></div>
+        <h3>Database</h3>
+        <div class="skill-tags">
+          <span>MySQL</span>
+          <span>MS-SQL</span>
+        </div>
+      </div>
+
+      <div class="skill-card reveal">
+        <div class="skill-icon"><i class="fa-solid fa-screwdriver-wrench"></i></div>
+        <h3>Tools</h3>
+        <div class="skill-tags">
+          <span>IntelliJ Ultimate</span>
+          <span>VS Code</span>
+          <span>Postman</span>
+          <span>MySQL Workbench</span>
+          <span>DBeaver</span>
+          <span>SQL Server Mgmt Studio</span>
+          <span>Git</span>
+          <span>GitHub Desktop</span>
+        </div>
+      </div>
+
+      <div class="skill-card reveal skill-ai">
+        <div class="skill-icon"><i class="fa-solid fa-robot"></i></div>
+        <h3>AI</h3>
+        <div class="skill-tags">
+          <span>GitHub Copilot</span>
+          <span>Claude Code</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============== AI ENGINEERING ============== -->
+<section id="ai" class="section">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-num">03</span>
+      <h2 class="section-title">AI Engineering, Automation <span class="gradient-text">&amp; Achievements</span></h2>
+      <p class="section-sub">What I've architected at the cutting edge</p>
+    </div>
+
+    <div class="ai-grid">
+      <article class="ai-card reveal">
+        <div class="ai-card-glow"></div>
+        <div class="ai-num">01</div>
+        <div class="ai-icon"><i class="fa-solid fa-network-wired"></i></div>
+        <h3>Custom MCP Server</h3>
+        <p>Designed and built a large-scale custom MCP server with <strong>248+ tools</strong> and an AI Agent — enabling AI-Agentic development workflows across databases, codebases, APIs, DevOps, monitoring systems and product knowledge bases.</p>
+        <div class="ai-chip"><i class="fa-solid fa-bolt"></i> 248+ Tools</div>
+      </article>
+
+      <article class="ai-card reveal">
+        <div class="ai-card-glow"></div>
+        <div class="ai-num">02</div>
+        <div class="ai-icon"><i class="fa-solid fa-brain"></i></div>
+        <h3>AI Knowledge Retrieval Engine</h3>
+        <p>Built a custom AI knowledge retrieval system over <strong>multi-GB datasets</strong> and source codes for high-accuracy domain-specific AI reasoning — <em>without relying on RAG</em>.</p>
+        <div class="ai-chip"><i class="fa-solid fa-database"></i> Multi-GB Indexed</div>
+      </article>
+
+      <article class="ai-card reveal">
+        <div class="ai-card-glow"></div>
+        <div class="ai-num">03</div>
+        <div class="ai-icon"><i class="fa-solid fa-vial-circle-check"></i></div>
+        <h3>Agentic Test Validation</h3>
+        <p>Designed and built the entire architecture and workflow for <strong>end-to-end testcase validation</strong> using a custom Agentic-AI system.</p>
+        <div class="ai-chip"><i class="fa-solid fa-circle-check"></i> E2E Autonomous</div>
+      </article>
+
+      <article class="ai-card reveal">
+        <div class="ai-card-glow"></div>
+        <div class="ai-num">04</div>
+        <div class="ai-icon"><i class="fa-solid fa-puzzle-piece"></i></div>
+        <h3>Custom IntelliJ Plugin</h3>
+        <p>Designed and built a <strong>custom Plugin for IntelliJ Ultimate IDEA</strong> — extending the IDE with intelligent capabilities and AI-powered developer tooling.</p>
+        <div class="ai-chip"><i class="fa-solid fa-code"></i> IDE Native</div>
+      </article>
+
+      <article class="ai-card reveal">
+        <div class="ai-card-glow"></div>
+        <div class="ai-num">05</div>
+        <div class="ai-icon"><i class="fa-brands fa-github"></i></div>
+        <h3>GitHub Copilot Mastery</h3>
+        <p>Extensive hands-on experience and advanced knowledge on GitHub Copilot LLM models, custom agents, <strong>SpecKit</strong>, MCP architecture, knowledge extraction, search indexing and AI tool orchestration for enterprise use cases.</p>
+        <div class="ai-chip"><i class="fa-solid fa-star"></i> Expert Level</div>
+      </article>
+
+      <article class="ai-card reveal">
+        <div class="ai-card-glow"></div>
+        <div class="ai-num">06</div>
+        <div class="ai-icon"><i class="fa-solid fa-microchip"></i></div>
+        <h3>Claude Agent Mastery</h3>
+        <p>Advanced knowledge on GitHub Copilot and Claude Agent capabilities including <strong>Skills, Instructions, Hooks, Sessions, Contexts and Specks</strong>.</p>
+        <div class="ai-chip"><i class="fa-solid fa-layer-group"></i> Full Stack Agentic</div>
+      </article>
+
+      <article class="ai-card reveal">
+        <div class="ai-card-glow"></div>
+        <div class="ai-num">07</div>
+        <div class="ai-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
+        <h3>Prompt Engineering</h3>
+        <p>Extensive hands-on experience and <strong>advanced knowledge of Prompt Engineering</strong> — building production-grade prompts for real-world enterprise use cases.</p>
+        <div class="ai-chip"><i class="fa-solid fa-fire"></i> Advanced</div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============== EDUCATION ============== -->
+<section id="education" class="section section-alt">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-num">04</span>
+      <h2 class="section-title">Academic <span class="gradient-text">Qualifications</span></h2>
+      <p class="section-sub">The foundation</p>
+    </div>
+
+    <div class="edu-timeline">
+      <div class="edu-item reveal">
+        <div class="edu-year">2020</div>
+        <div class="edu-card">
+          <div class="edu-icon"><i class="fa-solid fa-graduation-cap"></i></div>
+          <div class="edu-info">
+            <h3>B.Tech — Information Technology</h3>
+            <p class="edu-school">Jeppiaar SRR Engineering College, Chennai</p>
+          </div>
+          <div class="edu-score">
+            <span class="score-label">CGPA</span>
+            <span class="score-value">7.34</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="edu-item reveal">
+        <div class="edu-year">2016</div>
+        <div class="edu-card">
+          <div class="edu-icon"><i class="fa-solid fa-school"></i></div>
+          <div class="edu-info">
+            <h3>HSC — Higher Secondary</h3>
+            <p class="edu-school">Sacred Heart Matriculation, Chennai</p>
+          </div>
+          <div class="edu-score">
+            <span class="score-label">Score</span>
+            <span class="score-value">78.08%</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="edu-item reveal">
+        <div class="edu-year">2014</div>
+        <div class="edu-card">
+          <div class="edu-icon"><i class="fa-solid fa-book"></i></div>
+          <div class="edu-info">
+            <h3>SSLC — Secondary Education</h3>
+            <p class="edu-school">Sacred Heart Matriculation, Chennai</p>
+          </div>
+          <div class="edu-score">
+            <span class="score-label">Score</span>
+            <span class="score-value">97.4%</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============== EXPERIENCE ============== -->
+<section id="experience" class="section">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-num">05</span>
+      <h2 class="section-title">Projects <span class="gradient-text">&amp; Experience</span></h2>
+      <p class="section-sub">Where I've shipped real impact</p>
+    </div>
+
+    <div class="exp-timeline">
+
+      <!-- WK -->
+      <div class="exp-item reveal">
+        <div class="exp-marker">
+          <div class="marker-dot"></div>
+          <div class="marker-line"></div>
+        </div>
+        <div class="exp-content">
+          <div class="exp-header">
+            <div>
+              <span class="exp-period">Oct 2022 — Present</span>
+              <h3 class="exp-company">Wolters Kluwer ELM Solutions</h3>
+              <p class="exp-role">Senior Product Software Engineer · Chennai</p>
+            </div>
+            <div class="exp-tag-group">
+              <span class="exp-tag tag-current">Current</span>
+              <span class="exp-tag">Full-time</span>
+            </div>
+          </div>
+
+          <div class="exp-meta">
+            <div class="meta-row">
+              <span class="meta-label"><i class="fa-solid fa-users"></i> Clients</span>
+              <div class="meta-value">
+                <span class="client-pill citi">CITI Bank</span>
+                <span class="client-pill zurich">Zurich</span>
+                <span class="client-pill ubs">UBS</span>
+                <span class="client-pill chubb">Chubb</span>
+              </div>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label"><i class="fa-solid fa-landmark"></i> Domain</span>
+              <div class="meta-value">Enterprise Legal Management &amp; Regulatory and Finance</div>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label"><i class="fa-solid fa-bolt"></i> Role</span>
+              <div class="meta-value">Java &amp; Groovy Product Developer</div>
+            </div>
+          </div>
+
+          <div class="exp-resp">
+            <div class="resp-block">
+              <h4><i class="fa-solid fa-server"></i> Backend</h4>
+              <ul>
+                <li>End-to-end design and implementation of product customization &amp; configurations</li>
+                <li>Core product development with Java and Spring Boot</li>
+                <li>Product customization and configuration with Groovy &amp; JavaScript</li>
+                <li>Product integration with P2P systems using Java &amp; Groovy</li>
+                <li>End-to-end functional and implementation testing of the product after code-level changes</li>
+                <li>Developed <strong>Reserves and Settlements management system</strong> for CITI</li>
+              </ul>
+            </div>
+            <div class="resp-block">
+              <h4><i class="fa-solid fa-cloud"></i> Cloud &amp; Deployment</h4>
+              <ul>
+                <li>Jenkins / Azure environment monitoring, health checks, configurations and log checks</li>
+              </ul>
+              <h4><i class="fa-solid fa-palette"></i> Frontend</h4>
+              <ul>
+                <li>Product customization &amp; configuration with JavaScript, HTML &amp; CSS</li>
+              </ul>
+            </div>
+            <div class="resp-block">
+              <h4><i class="fa-solid fa-database"></i> Database &amp; Tools</h4>
+              <ul>
+                <li>Writing and developing SQL scripts from scratch · all DB &amp; SQL operations</li>
+                <li>End-to-end workflow on Git, GitHub Desktop, BitBucket</li>
+                <li>Hands-on experience with Jira, Confluence</li>
+              </ul>
+              <h4><i class="fa-solid fa-robot"></i> AI</h4>
+              <ul>
+                <li>Built <strong>Custom Agents, MCP Server, Agentic AIs &amp; Workflow automations</strong></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- CG -->
+      <div class="exp-item reveal">
+        <div class="exp-marker">
+          <div class="marker-dot"></div>
+          <div class="marker-line"></div>
+        </div>
+        <div class="exp-content">
+          <div class="exp-header">
+            <div>
+              <span class="exp-period">Oct 2020 — Oct 2022</span>
+              <h3 class="exp-company">Capgemini Technology Services</h3>
+              <p class="exp-role">Senior Analyst · Custom Software Developer · Chennai</p>
+            </div>
+            <div class="exp-tag-group">
+              <span class="exp-tag">Full-time</span>
+            </div>
+          </div>
+
+          <div class="exp-meta">
+            <div class="meta-row">
+              <span class="meta-label"><i class="fa-solid fa-users"></i> Client</span>
+              <div class="meta-value">
+                <span class="client-pill penske">PENSKE Connected Fleet</span>
+                <span class="client-pill germany">Germany</span>
+              </div>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label"><i class="fa-solid fa-landmark"></i> Domain</span>
+              <div class="meta-value">Customers, Units, Device Management &amp; Vehicle Location Services</div>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label"><i class="fa-solid fa-bolt"></i> Role</span>
+              <div class="meta-value">Java Full Stack REST API Developer with Angular</div>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label"><i class="fa-solid fa-graduation-cap"></i> Training</span>
+              <div class="meta-value">Officially trained by Capgemini in Core &amp; Advanced Java with Spring Boot &amp; Angular</div>
+            </div>
+          </div>
+
+          <div class="exp-resp">
+            <div class="resp-block">
+              <h4><i class="fa-solid fa-server"></i> Backend</h4>
+              <ul>
+                <li>Developed Java RESTful APIs using Spring Boot with microservices architecture from scratch</li>
+                <li>JUnit development achieving <strong>95% code coverage</strong> using JUnit 4, Mockito &amp; PowerMockito</li>
+                <li>Swagger documentation across all APIs</li>
+              </ul>
+            </div>
+            <div class="resp-block">
+              <h4><i class="fa-solid fa-cloud"></i> Cloud &amp; Deployment</h4>
+              <ul>
+                <li>Manual &amp; auto deployment to PCF via CLI &amp; Bamboo</li>
+                <li>PCF — Applications/Instances monitoring, health checks, configurations &amp; log monitoring</li>
+              </ul>
+              <h4><i class="fa-solid fa-palette"></i> Frontend</h4>
+              <ul>
+                <li>Angular development &amp; bug-fixing, testing &amp; deployment</li>
+              </ul>
+            </div>
+            <div class="resp-block">
+              <h4><i class="fa-solid fa-database"></i> Database &amp; Tools</h4>
+              <ul>
+                <li>Writing and developing SQL scripts from scratch · all DB &amp; SQL operations</li>
+                <li>End-to-end workflow on Git, GitHub Desktop, BitBucket</li>
+                <li>Hands-on experience with Jira, Confluence, Bamboo</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============== CONTACT ============== -->
+<section id="contact" class="section section-alt">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-num">06</span>
+      <h2 class="section-title">Let's <span class="gradient-text">Connect</span></h2>
+      <p class="section-sub">Always open to interesting AI &amp; engineering conversations</p>
+    </div>
+
+    <div class="contact-grid">
+      <a href="https://www.linkedin.com/in/ariv98" target="_blank" rel="noopener" class="contact-card reveal">
+        <div class="contact-icon"><i class="fa-brands fa-linkedin-in"></i></div>
+        <h3>LinkedIn</h3>
+        <p>linkedin.com/in/ariv98</p>
+        <span class="contact-arrow"><i class="fa-solid fa-arrow-right"></i></span>
+      </a>
+      <a href="mailto:arivazhaganazhagan98@gmail.com" class="contact-card reveal">
+        <div class="contact-icon"><i class="fa-solid fa-envelope"></i></div>
+        <h3>Email</h3>
+        <p>arivazhaganazhagan98@gmail.com</p>
+        <span class="contact-arrow"><i class="fa-solid fa-arrow-right"></i></span>
+      </a>
+      <a href="tel:+917010009295" class="contact-card reveal">
+        <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>
+        <h3>Phone</h3>
+        <p>+91 70100 09295</p>
+        <span class="contact-arrow"><i class="fa-solid fa-arrow-right"></i></span>
+      </a>
+      <a href="https://github.com/ariv98" target="_blank" rel="noopener" class="contact-card reveal">
+        <div class="contact-icon"><i class="fa-brands fa-github"></i></div>
+        <h3>GitHub</h3>
+        <p>github.com/ariv98</p>
+        <span class="contact-arrow"><i class="fa-solid fa-arrow-right"></i></span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============== FOOTER ============== -->
+<footer class="footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <a href="#hero" class="logo">
+        <span class="logo-bracket">&lt;</span>AS<span class="logo-bracket">/&gt;</span>
+      </a>
+      <p>Architecting agentic AI systems at enterprise scale.</p>
+    </div>
+    <p class="footer-quote">"The best way to predict the future is to build the agents that will live in it."</p>
+    <p class="footer-copy">© <span id="year"></span> Arivazhagan S · Crafted with <i class="fa-solid fa-heart"></i> &amp; AI</p>
+  </div>
+</footer>
+
+<button class="back-to-top" id="backToTop" aria-label="back to top">
+  <i class="fa-solid fa-arrow-up"></i>
+</button>
+
+<script src="script.js"></script>
+</body>
+</html>
