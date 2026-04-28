@@ -28,9 +28,10 @@ class Arivazhagan_S:
     location  = "Chennai, Tamil Nadu, India"
 
     contact = {
-        "📱 mobile":   "+91 70100 09295",
-        "📧 email":    "arivazhaganazhagan98@gmail.com",
-        "💼 linkedin": "linkedin.com/in/ariv98",
+        "📱 mobile":    "+91 70100 09295",
+        "📧 email":     "arivazhaganazhagan98@gmail.com",
+        "💼 linkedin":  "linkedin.com/in/ariv98",
+        "🌐 portfolio": "ariv98.github.io/ariv98",
     }
 
     def mission(self):
@@ -50,7 +51,9 @@ class Arivazhagan_S:
 
 <a href="https://www.linkedin.com/in/ariv98"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:arivazhaganazhagan98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/ariv98"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <br />
+<a href="https://ariv98.github.io/ariv98"><img src="https://img.shields.io/badge/-Portfolio-FFB800?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" /></a>
 <a href="tel:+917010009295"><img src="https://img.shields.io/badge/-+91_70100_09295-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
 <img src="https://img.shields.io/badge/-Chennai,_India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
@@ -125,8 +128,15 @@ class Arivazhagan_S:
 <tr>
 <td align="center"><b>🤖 AI</b></td>
 <td>
+<img src="https://img.shields.io/badge/-MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" />
 <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/-Skills-FFB800?style=flat-square" alt="Skills" />
+<img src="https://img.shields.io/badge/-Instructions-22D3EE?style=flat-square" alt="Instructions" />
+<img src="https://img.shields.io/badge/-Hooks-A78BFA?style=flat-square" alt="Hooks" />
+<img src="https://img.shields.io/badge/-Sessions-22C55E?style=flat-square" alt="Sessions" />
+<img src="https://img.shields.io/badge/-Contexts-F97316?style=flat-square" alt="Contexts" />
+<img src="https://img.shields.io/badge/-Specks-EAB308?style=flat-square" alt="Specks" />
 </td>
 </tr>
 </table>
@@ -337,7 +347,7 @@ class Arivazhagan_S:
 - Hands-on working experience with Jira, Confluence
 
 **🤖 AI**
-- Built **Custom Agents, MCP Server, Agentic AIs, Workflow automations**
+- Built **Custom AI Agents, MCP Servers, Agentic AIs, Workflow automations**
 
 </td>
 </tr>
@@ -378,7 +388,7 @@ class Arivazhagan_S:
 </tr>
 <tr>
 <td align="center"><b>🏛️ Domain</b></td>
-<td>Customers, Units, Device Management & Vehicle Location Services</td>
+<td>Customers, Units, Device Management & Location Services</td>
 </tr>
 <tr>
 <td align="center"><b>⚡ Role</b></td>
