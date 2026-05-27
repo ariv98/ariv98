@@ -1,4 +1,4 @@
-?<!-- markdownlint-disable MD033 MD041 MD045 MD001 MD022 MD032 MD036 -->
+??<!-- markdownlint-disable MD033 MD041 MD045 MD001 MD022 MD032 MD036 -->
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br /><br />
 
-### 🌐 [**ariv98.github.io/ariv98**](https://ariv98.github.io/ariv98) &nbsp;·&nbsp; [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FFB800?style=for-the-badge&logo=githubpages&logoColor=black)](https://ariv98.github.io/ariv98)
+### 🌐 [**ariv98.github.io/ariv98**](https://ariv98.github.io/ariv98) &nbsp;·&nbsp; [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FFB800?style=for-the-badge&logo=githubpages&logoColor=black)](https://ariv98.github.io/ariv98) &nbsp;·&nbsp; [![Resume](https://img.shields.io/badge/Download_Resume-22D3EE?style=for-the-badge&logo=readthedocs&logoColor=black)](https://github.com/ariv98/ariv98/raw/master/Arivazhagan_S_Resume.pdf)
 
 </div>
 
@@ -139,6 +139,7 @@ class Arivazhagan_S:
 <a href="#"><img src="https://img.shields.io/badge/-Hooks-A78BFA?style=flat-square" alt="Hooks" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Sessions-22C55E?style=flat-square" alt="Sessions" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Contexts-F97316?style=flat-square" alt="Contexts" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Tokenization-06B6D4?style=flat-square" alt="Tokenization" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Specks-EAB308?style=flat-square" alt="Specks" /></a>
 </td>
 </tr>
@@ -181,7 +182,7 @@ class Arivazhagan_S:
 <br /><br />
 <b>Agentic Test AI</b>
 <br />
-<sub>Designed & built entire architecture and workflow for end-to-end testcase validation using a <b>custom Agentic-AI</b></sub>
+<sub>Designed & built entire architecture and workflow for end-to-end test case validation against the product using a <b>custom Agentic-AI & Skills</b></sub>
 <br /><br />
 <a href="#"><img src="https://img.shields.io/badge/E2E-Autonomous-22C55E?style=flat-square" alt="E2E" /></a>
 </td>
@@ -213,14 +214,19 @@ class Arivazhagan_S:
 <table>
 <tr>
 <td>
+<b>🤝 Custom AI Agents</b>
+<br />
+<sub>Designed and built <b>multiple custom AI Agents for the product</b> — purpose-built specialists for domain workflows, validations and automations</sub>
+</td>
+<td>
 <b>🛠️ GitHub Copilot Mastery</b>
 <br />
-<sub>Extensive hands-on experience and advanced knowledge on GitHub Copilot LLM models, custom agents, SpecKit, MCP architecture, Knowledge extraction, search indexing and AI tool orchestration for real-world enterprise use cases</sub>
+<sub>Extensive hands-on experience and advanced knowledge on GitHub Copilot LLM models, custom Agents, SpecKit, MCP architecture, Knowledge extraction, search indexing and AI tool orchestration for real-world enterprise use cases</sub>
 </td>
 <td>
 <b>🧠 Claude Agent Mastery</b>
 <br />
-<sub>Extensive hands-on experience and advanced knowledge on GitHub Copilot and Claude Agent capabilities including <b>Skills, Instructions, Hooks, Sessions, Contexts and Specks</b></sub>
+<sub>Extensive hands-on experience and advanced knowledge on GitHub Copilot and Claude Agent capabilities including <b>Skills, Instructions, Hooks, Sessions, Contexts, Tokenization and Specks</b></sub>
 </td>
 </tr>
 </table>
@@ -280,7 +286,7 @@ class Arivazhagan_S:
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/02-Wolters_Kluwer_ELM_Solutions-22D3EE?style=for-the-badge&labelColor=0B1020" alt="WK" /></a>
+<a href="#"><img src="https://img.shields.io/badge/01-Wolters_Kluwer_ELM_Solutions-22D3EE?style=for-the-badge&labelColor=0B1020" alt="WK" /></a>
 
 ### 🏢 WOLTERS KLUWER ELM Solutions
 <a href="#"><img src="https://img.shields.io/badge/OCT_2022-PRESENT-22C55E?style=for-the-badge" alt="Period" /></a>
@@ -344,7 +350,7 @@ class Arivazhagan_S:
 - All Database and SQL related operations
 
 **🔁 Repository**
-- End-to-end workflow activity on Git, GitHub Desktop, BitBucket
+- End-to-end workflow activity on Git, GitHub Desktop, Bitbucket
 
 **🤝 Others**
 - Hands-on working experience with Jira, Confluence
@@ -364,7 +370,7 @@ class Arivazhagan_S:
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/01-Capgemini_Technology_Services-A78BFA?style=for-the-badge&labelColor=0B1020" alt="CG" /></a>
+<a href="#"><img src="https://img.shields.io/badge/02-Capgemini_Technology_Services-A78BFA?style=for-the-badge&labelColor=0B1020" alt="CG" /></a>
 
 ### 🚛 CAPGEMINI Technology Services
 <a href="#"><img src="https://img.shields.io/badge/OCT_2020-OCT_2022-A78BFA?style=for-the-badge" alt="Period" /></a>
@@ -428,7 +434,7 @@ class Arivazhagan_S:
 - All Database and SQL related operations
 
 **🔁 Repository**
-- End-to-end workflow activity on Git, GitHub Desktop, BitBucket
+- End-to-end workflow activity on Git, GitHub Desktop, Bitbucket
 
 **🤝 Others**
 - Hands-on working experience with Jira, Confluence, Bamboo
