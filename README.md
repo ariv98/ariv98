@@ -1,10 +1,10 @@
-<!-- markdownlint-disable MD033 MD041 MD045 MD001 MD022 MD032 MD036 -->
+??<!-- markdownlint-disable MD033 MD041 MD045 MD001 MD022 MD032 MD036 -->
 
 <div align="center">
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,40:7C3AED,100:22D3EE&text=Arivazhagan%20S&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Arivazhagan S" /></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,40:7C3AED,100:22D3EE&text=Arivazhagan%20S&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Senior%20JAVA%20Product%20Developer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20MCP%20%26%20Agentic%20AI%20Workflow%20Specialist&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Arivazhagan S" /></a>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=%E2%9A%A1+Building+Agentic+AI+Systems;%F0%9F%A4%96+248%2B+MCP+Tools+Architected;%F0%9F%A7%A0+Custom+AI+Knowledge+Engines;%F0%9F%9A%80+Enterprise+Java+%26+Automation" alt="Headline" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=%E2%9A%A1+Building+Agentic+AI+Systems;%F0%9F%A4%96+240%2B+MCP+Tools+Architected;%F0%9F%A7%A0+Custom+AI+Knowledge+Engines;%F0%9F%9A%80+Enterprise+Java+%26+Automation" alt="Headline" /></a>
 
 <br /><br />
 
@@ -28,7 +28,7 @@
 @AI_Engineer
 class Arivazhagan_S:
     full_name = "Arivazhagan S"
-    title     = "Senior Product SW Engineer"
+    title     = "Senior JAVA Product Developer"
     location  = "Chennai, Tamil Nadu, India"
 
     contact = {
@@ -118,23 +118,27 @@ class Arivazhagan_S:
 <tr>
 <td align="center"><b>🛠️ Tools</b></td>
 <td>
-<a href="#"><img src="https://img.shields.io/badge/-IntelliJ_Ultimate-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-IntelliJ_Ultimate-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white" alt="Workbench" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-MS_SQL_Server_Mgmt_Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-GitHub_Desktop-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🤖 AI</b></td>
 <td>
-<a href="#"><img src="https://img.shields.io/badge/-MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Model_Context_Protocol_(MCP)-7C3AED?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Skills-FFB800?style=flat-square" alt="Skills" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Custom_AI_Agents-7C3AED?style=flat-square" alt="Custom AI Agents" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Agent_Skills-FFB800?style=flat-square" alt="Agent Skills" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Instructions-22D3EE?style=flat-square" alt="Instructions" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Hooks-A78BFA?style=flat-square" alt="Hooks" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Sessions-22C55E?style=flat-square" alt="Sessions" /></a>
@@ -153,7 +157,7 @@ class Arivazhagan_S:
 
 <div align="center">
 
-# 🧬 AI Engineering, Automation Capabilities & Achievements
+# 🧬 Agentic AI Engineering, Automation Capabilities & Achievements
 
 </div>
 
@@ -164,9 +168,9 @@ class Arivazhagan_S:
 <br /><br />
 <b>Custom MCP Server</b>
 <br />
-<sub>Designed & built a large-scale custom MCP server with <b>248+ tools</b> and an AI Agent — enabling AI-Agentic development workflows across databases, codebases, APIs, DevOps, monitoring systems & product knowledge bases</sub>
+<sub>Designed, built & <b>hosted</b> a large-scale custom MCP server with <b>240+ tools</b> and an AI Agent — enabling AI-Agentic development workflows across databases, codebases, APIs, DevOps, monitoring systems & product knowledge bases</sub>
 <br /><br />
-<a href="#"><img src="https://img.shields.io/badge/248%2B-Tools-22D3EE?style=flat-square" alt="248" /></a>
+<a href="#"><img src="https://img.shields.io/badge/240%2B-Tools-22D3EE?style=flat-square" alt="240" /></a>
 </td>
 <td align="center" width="20%">
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" alt="Knowledge" /></a>
@@ -182,7 +186,7 @@ class Arivazhagan_S:
 <br /><br />
 <b>Agentic Test AI</b>
 <br />
-<sub>Designed & built entire architecture and workflow for end-to-end test case validation against the product using a <b>custom Agentic-AI & Skills</b></sub>
+<sub>Engineered a fully automated <b>Agentic AI-driven system</b> for end-to-end product validation — autonomously generating & executing test scenarios and producing validation reports using custom Agentic AI & <b>Agent Skills</b></sub>
 <br /><br />
 <a href="#"><img src="https://img.shields.io/badge/E2E-Autonomous-22C55E?style=flat-square" alt="E2E" /></a>
 </td>
@@ -191,7 +195,7 @@ class Arivazhagan_S:
 <br /><br />
 <b>IntelliJ Plugin</b>
 <br />
-<sub>Designed & built a <b>custom Plugin for IntelliJ Ultimate IDEA</b> — extending the IDE with intelligent capabilities</sub>
+<sub>Designed & developed a <b>custom IntelliJ IDEA Ultimate plugin</b> — extending the IDE with intelligent capabilities</sub>
 <br /><br />
 <a href="#"><img src="https://img.shields.io/badge/IDE-Native-F97316?style=flat-square" alt="IDE" /></a>
 </td>
@@ -214,6 +218,16 @@ class Arivazhagan_S:
 <table>
 <tr>
 <td>
+<b>🛡️ DataPrivacyShield</b>
+<br />
+<sub>Designed & implemented <b>DataPrivacyShield</b>, a security middleware for the MCP platform that <b>tokenizes & masks PII</b> before it reaches LLMs — enabling secure AI-assisted workflows without exposing sensitive customer data</sub>
+</td>
+<td>
+<b>☁️ MCP Hosting on Azure</b>
+<br />
+<sub>Architected <b>MCP server hosting & deployment</b> strategies on Microsoft Azure — scalability, security, authentication & session management</sub>
+</td>
+<td>
 <b>🤝 Custom AI Agents</b>
 <br />
 <sub>Designed and built <b>multiple custom AI Agents for the product</b> — purpose-built specialists for domain workflows, validations and automations</sub>
@@ -221,12 +235,12 @@ class Arivazhagan_S:
 <td>
 <b>🛠️ GitHub Copilot Mastery</b>
 <br />
-<sub>Extensive hands-on experience and advanced knowledge on GitHub Copilot LLM models, custom Agents, SpecKit, MCP architecture, Knowledge extraction, search indexing and AI tool orchestration for real-world enterprise use cases</sub>
+<sub>Advanced expertise in GitHub Copilot LLM models, custom Agents, SpecKit, MCP architecture, Knowledge extraction, search indexing and AI tool orchestration for real-world enterprise products and use cases</sub>
 </td>
 <td>
 <b>🧠 Claude Agent Mastery</b>
 <br />
-<sub>Extensive hands-on experience and advanced knowledge on GitHub Copilot and Claude Agent capabilities including <b>Skills, Instructions, Hooks, Sessions, Contexts, Tokenization and Specks</b></sub>
+<sub>Advanced expertise on GitHub Copilot and Claude Agent capabilities including <b>Sub-agents, Skills, Instructions, Hooks, Sessions, Contexts, Tokenization and Specks</b></sub>
 </td>
 </tr>
 </table>
@@ -330,11 +344,11 @@ class Arivazhagan_S:
 
 **🔧 Backend**
 - End-to-end design and implementation of product customization & configurations
-- Core product development with Java and Spring Boot
+- Core product development using Java Spring Boot with microservice architecture
 - Product customization and configuration with Groovy & JavaScript
 - Product integration with P2P systems using Java & Groovy
 - End-to-end functional and implementation testing of the product after code-level changes and customizations
-- 💼 Developed **Reserves and Settlements management system** for CITI
+- 💼 Developed **Reserves and Settlements management system** for CITI Bank
 
 **☁️ Cloud & Deployment**
 - Jenkins / Azure — Environments monitoring, health checks, configurations and log checks

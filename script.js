@@ -119,9 +119,10 @@
   if (typedEl) {
     const phrases = [
       'AI Systems Architect',
-      'MCP & Agentic Workflow Specialist',
+      'MCP & Agentic AI Workflow Specialist',
+      'Senior JAVA Product Developer',
       'Building Agentic AI Systems',
-      'Architecting 248+ MCP Tools',
+      'Architecting 240+ MCP Tools',
       'Designing Custom Knowledge Engines',
       'Engineering Enterprise Java Platforms',
       'Mastering Copilot · Claude · SpecKit',
