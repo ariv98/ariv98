@@ -58,7 +58,7 @@
   revealEls.forEach((el) => revealObserver.observe(el));
 
   // ---------- Scroll-spy: highlight current section in nav ----------
-  const sectionIds = ['hero', 'about', 'skills', 'ai', 'education', 'experience', 'contact'];
+  const sectionIds = ['hero', 'about', 'skills', 'ai', 'projects', 'education', 'experience', 'contact'];
   const navLinkMap = {};
   document.querySelectorAll('.nav-links a').forEach((a) => {
     const href = a.getAttribute('href');
@@ -118,12 +118,11 @@
   const typedEl = document.getElementById('typed');
   if (typedEl) {
     const phrases = [
-      'AI Systems Architect',
-      'MCP & Agentic AI Workflow Specialist',
-      'Senior JAVA Product Developer',
-      'Building Agentic AI Systems',
+      'Senior Java Full Stack Engineer',
+      'AI Engineer · MCP & RAG Architect',
+      'Agentic AI Workflow Architect',
       'Architecting 240+ MCP Tools',
-      'Designing Custom Knowledge Engines',
+      'Building Production RAG Pipelines',
       'Engineering Enterprise Java Platforms',
       'Mastering Copilot · Claude · SpecKit',
     ];

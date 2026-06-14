@@ -642,6 +642,30 @@ main, section, nav, footer { position: relative; z-index: 3; }
 .about-info p { color: var(--text-secondary); margin-bottom: 16px; font-size: 16px; }
 .about-info strong { color: var(--gold); font-weight: 600; }
 
+.about-summary {
+  position: relative;
+  margin: 0 0 20px;
+  padding: 18px 22px;
+  border-left: 3px solid var(--gold);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  background: linear-gradient(120deg, rgba(255, 184, 0, 0.08), rgba(0, 229, 255, 0.04));
+}
+.summary-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 8px;
+  text-shadow: 0 0 8px rgba(255, 184, 0, 0.4);
+}
+.about-summary p { margin: 0; font-size: 15px; color: var(--text-secondary); line-height: 1.7; }
+.about-summary strong { color: var(--gold); font-weight: 600; }
+
 .about-meta { list-style: none; margin: 28px 0; display: grid; gap: 12px; }
 .about-meta li {
   display: flex;

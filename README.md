@@ -1,10 +1,10 @@
-<!-- markdownlint-disable MD033 MD041 MD045 MD001 MD022 MD032 MD036 -->
+??<!-- markdownlint-disable MD033 MD041 MD045 MD001 MD022 MD032 MD036 -->
 
 <div align="center">
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,40:7C3AED,100:22D3EE&text=Arivazhagan%20S&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Senior%20JAVA%20Product%20Developer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20MCP%20%26%20Agentic%20AI%20Workflow%20Specialist&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Arivazhagan S" /></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,40:7C3AED,100:22D3EE&text=Arivazhagan%20S&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Senior%20Java%20Full%20Stack%20%26%20AI%20Engineer%20%E2%80%A2%20MCP%2C%20RAG%20%26%20Agentic%20AI%20Workflow%20Architect&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Arivazhagan S" /></a>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=%E2%9A%A1+Building+Agentic+AI+Systems;%F0%9F%A4%96+240%2B+MCP+Tools+Architected;%F0%9F%A7%A0+Custom+AI+Knowledge+Engines;%F0%9F%9A%80+Enterprise+Java+%26+Automation" alt="Headline" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=%E2%9A%A1+Senior+Java+Full+Stack+%26+AI+Engineer;%F0%9F%A4%96+240%2B+MCP+Tools+Architected;%F0%9F%A7%A0+Production+RAG+%26+Agentic+AI+Pipelines;%F0%9F%9A%80+Enterprise+Microservices+%26+REST+APIs" alt="Headline" /></a>
 
 <br /><br />
 
@@ -18,6 +18,18 @@
 
 <div align="center">
 
+# 🧭 Professional Summary
+
+</div>
+
+> **Senior Java Full Stack Engineer** with **5+ years** delivering enterprise microservices, RESTful APIs, and full-stack applications for global banking and fleet telematics clients — **Citi Bank, UBS, Zurich, Chubb &amp; PENSKE**. Applied AI: architecting production-grade **Agentic AI systems**, **Model Context Protocol (MCP)** servers, and **Retrieval-Augmented Generation (RAG)** pipelines. Core expertise spans **Java, Spring Boot, Microservices, REST APIs, LLM integration, GitHub Copilot, Agentic AI, MCP, RAG, Azure, Kubernetes, Docker, Kafka, AWS &amp; SQL**.
+
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
 # 👤 Personal Information
 
 <table>
@@ -27,9 +39,10 @@
 ```python
 @AI_Engineer
 class Arivazhagan_S:
-    full_name = "Arivazhagan S"
-    title     = "Senior JAVA Product Developer"
-    location  = "Chennai, Tamil Nadu, India"
+    full_name  = "Arivazhagan S"
+    title      = "Sr. Java Full Stack & AI Engineer"
+    experience = "5+ years"
+    location   = "Chennai, Tamil Nadu, India"
 
     contact = {
         "📱 mobile":    "+91 70100 09295",
@@ -40,9 +53,9 @@ class Arivazhagan_S:
 
     def mission(self):
         return (
-            "Architect agentic AI systems "
-            "that think, decide, and execute "
-            "at enterprise scale."
+            "Architect Agentic AI, MCP & RAG "
+            "systems that think, decide, and "
+            "execute at enterprise scale."
         )
 ```
 
@@ -74,77 +87,119 @@ class Arivazhagan_S:
 
 # ⚡ Technical Skills
 
-<a href="#"><img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,js,ts,angular,html,css,bootstrap,nodejs,python,mysql,bash,git,github,bitbucket,jenkins,docker,aws,azure,linux,postman,idea,vscode&perline=13" alt="Skills" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java,spring,maven,js,ts,angular,html,css,bootstrap,python,mysql,git,github,bitbucket,jenkins,docker,kubernetes,kafka,aws,azure,postman,idea,vscode&perline=12" alt="Skills" /></a>
 
 <br /><br />
 
 <table>
 <tr>
-<td align="center"><b>☕ Backend</b></td>
+<td align="center"><b>💻 Languages</b></td>
 <td>
-<a href="#"><img src="https://img.shields.io/badge/-Core_%26_Advanced_Java_11%2B-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Java_(v11%2B)-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" alt="Groovy" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+</td>
+</tr>
+<tr>
+<td align="center"><b>☕ Frameworks &amp; Backend</b></td>
+<td>
 <a href="#"><img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Microservices-111827?style=flat-square" alt="Microservices" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-RESTful_APIs-0F766E?style=flat-square" alt="REST" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-JUnit_4%2F5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Mockito-78A641?style=flat-square" alt="Mockito" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-PowerMockito-7E57C2?style=flat-square" alt="PowerMockito" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" alt="Groovy" /></a>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🎨 Frontend</b></td>
 <td>
-<a href="#"><img src="https://img.shields.io/badge/-Angular_v8-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Angular_(v8%2B)-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></a>
 </td>
 </tr>
 <tr>
-<td align="center"><b>☁️ Cloud</b></td>
+<td align="center"><b>☁️ Cloud &amp; DevOps</b></td>
 <td>
 <a href="#"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-PCF_(Pivotal_Cloud_Foundry)-0B5563?style=flat-square&logo=cloudfoundry&logoColor=white" alt="PCF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-PCF-0B5563?style=flat-square&logo=cloudfoundry&logoColor=white" alt="PCF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CICD" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /></a>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🗄️ Database</b></td>
+<td align="center"><b>🗄️ Databases</b></td>
 <td>
 <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL" /></a>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🛠️ Tools</b></td>
-<td>
-<a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-IntelliJ_Ultimate-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white" alt="Workbench" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-MS_SQL_Server_Mgmt_Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub_Desktop-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🤖 AI</b></td>
+<td align="center"><b>🤖 AI &amp; Automation</b></td>
 <td>
 <a href="#"><img src="https://img.shields.io/badge/-Model_Context_Protocol_(MCP)-7C3AED?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Agentic_AI-7C3AED?style=flat-square" alt="Agentic AI" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-RAG-22C55E?style=flat-square" alt="RAG" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-LLM_Integration-06B6D4?style=flat-square" alt="LLM" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Custom_AI_Agents-7C3AED?style=flat-square" alt="Custom AI Agents" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Agent_Skills-FFB800?style=flat-square" alt="Agent Skills" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Sub--agents-A78BFA?style=flat-square" alt="Sub-agents" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Instructions-22D3EE?style=flat-square" alt="Instructions" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Hooks-A78BFA?style=flat-square" alt="Hooks" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Sessions-22C55E?style=flat-square" alt="Sessions" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Contexts-F97316?style=flat-square" alt="Contexts" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Tokenization-06B6D4?style=flat-square" alt="Tokenization" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Specks-EAB308?style=flat-square" alt="Specks" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-SpecKit-EAB308?style=flat-square" alt="SpecKit" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Prompt_Engineering-F97316?style=flat-square" alt="Prompt Engineering" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-AI_Workflow_Orchestration-22D3EE?style=flat-square" alt="Orchestration" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" /></a>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🛠️ Tools &amp; Platforms</b></td>
+<td>
+<a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-IntelliJ_IDEA_Ultimate-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white" alt="Workbench" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-GitHub_Desktop-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Bamboo-0052CC?style=flat-square&logo=bamboo&logoColor=white" alt="Bamboo" /></a>
+</td>
+</tr>
+<tr>
+<td align="center"><b>📐 Practices</b></td>
+<td>
+<a href="#"><img src="https://img.shields.io/badge/-Agile-1E90FF?style=flat-square" alt="Agile" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-TDD-FF6B6B?style=flat-square" alt="TDD" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-SDLC-6366F1?style=flat-square" alt="SDLC" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Code_Reviews-22C55E?style=flat-square" alt="Code Reviews" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-REST_API_Design-0F766E?style=flat-square" alt="REST API Design" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Microservices_Architecture-111827?style=flat-square" alt="Microservices Arch" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-DSA-F59E0B?style=flat-square" alt="DSA" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-OOP-A78BFA?style=flat-square" alt="OOP" /></a>
 </td>
 </tr>
 </table>
@@ -163,84 +218,66 @@ class Arivazhagan_S:
 
 <table align="center">
 <tr>
-<td align="center" width="20%">
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" alt="MCP" /></a>
-<br /><br />
-<b>Custom MCP Server</b>
+<td align="center" width="25%">
 <br />
-<sub>Designed, built & <b>hosted</b> a large-scale custom MCP server with <b>240+ tools</b> and an AI Agent — enabling AI-Agentic development workflows across databases, codebases, APIs, DevOps, monitoring systems & product knowledge bases</sub>
+<b>🧰 Enterprise MCP Server (240+ Tools)</b>
+<br />
+<sub>Designed &amp; built a large-scale <b>Model Context Protocol server</b> with <b>240+ tools</b> &amp; a custom AI Agent tools orchestrator — enabling AI-agentic development workflows across databases, codebases, REST APIs, DevOps pipelines, monitoring systems &amp; product knowledge bases. Integrated <b>Confluence, Bitbucket, Jira, Jenkins &amp; Azure</b>, reducing manual effort by <b>80%</b></sub>
 <br /><br />
-<a href="#"><img src="https://img.shields.io/badge/240%2B-Tools-22D3EE?style=flat-square" alt="240" /></a>
+<a href="#"><img src="https://img.shields.io/badge/240%2B_Tools-80%25_Faster-22D3EE?style=flat-square" alt="MCP" /></a>
 </td>
-<td align="center" width="20%">
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" alt="Knowledge" /></a>
-<br /><br />
-<b>AI Knowledge Retrieval</b>
+<td align="center" width="25%">
 <br />
-<sub>Designed & built a custom AI knowledge retrieval system (multi-GB datasets, source codes) for high-accuracy domain-specific AI reasoning <b>without relying on RAG</b></sub>
+<b>🧪 Agentic AI Test Automation</b>
+<br />
+<sub>Engineered a fully automated <b>Agentic AI system</b> for end-to-end product validation — autonomously generating &amp; executing <b>20,000+ test scenarios</b> and producing validation reports using <b>Agent Skills &amp; sub-agents</b>, cutting manual QA effort by over <b>60%</b></sub>
 <br /><br />
-<a href="#"><img src="https://img.shields.io/badge/Multi--GB-Indexed-A78BFA?style=flat-square" alt="GB" /></a>
+<a href="#"><img src="https://img.shields.io/badge/20K%2B_Tests-60%25_Less_QA-22C55E?style=flat-square" alt="Test" /></a>
 </td>
-<td align="center" width="20%">
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" alt="Testing" /></a>
-<br /><br />
-<b>Agentic Test AI</b>
+<td align="center" width="25%">
 <br />
-<sub>Engineered a fully automated <b>Agentic AI-driven system</b> for end-to-end product validation — autonomously generating & executing test scenarios and producing validation reports using custom Agentic AI & <b>Agent Skills</b></sub>
+<b>🛡️ DataPrivacyShield Middleware</b>
+<br />
+<sub>Designed &amp; implemented a <b>security middleware layer</b> for the MCP server that <b>tokenizes &amp; masks PII data</b> before it reaches LLMs — enabling secure AI without exposing sensitive customer data</sub>
 <br /><br />
-<a href="#"><img src="https://img.shields.io/badge/E2E-Autonomous-22C55E?style=flat-square" alt="E2E" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Security-PII_Secured-EF4444?style=flat-square" alt="PII" /></a>
 </td>
-<td align="center" width="20%">
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" alt="Plugin" /></a>
-<br /><br />
-<b>IntelliJ Plugin</b>
+<td align="center" width="25%">
 <br />
-<sub>Designed & developed a <b>custom IntelliJ IDEA Ultimate plugin</b> — extending the IDE with intelligent capabilities</sub>
-<br /><br />
-<a href="#"><img src="https://img.shields.io/badge/IDE-Native-F97316?style=flat-square" alt="IDE" /></a>
-</td>
-<td align="center" width="20%">
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Prompt" /></a>
-<br /><br />
-<b>Prompt Engineering</b>
+<b>🧠 Custom AI Knowledge Retrieval</b>
 <br />
-<sub>Extensive hands-on experience and <b>advanced knowledge of Prompt Engineering</b> for real-world enterprise use cases</sub>
+<sub>Built a high-accuracy, domain-specific <b>RAG pipeline</b> over multi-GB datasets &amp; source code, backed by a <b>vector database</b> for semantic indexing &amp; retrieval — enabling precise product-level knowledge extraction, contextual search &amp; AI-assisted reasoning at scale</sub>
 <br /><br />
-<a href="#"><img src="https://img.shields.io/badge/Expert-Level-EAB308?style=flat-square" alt="Expert" /></a>
+<a href="#"><img src="https://img.shields.io/badge/RAG-Vector_DB-A78BFA?style=flat-square" alt="RAG" /></a>
 </td>
 </tr>
 </table>
 
-<br />
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td>
-<b>🛡️ DataPrivacyShield</b>
+<td align="center" width="33%">
 <br />
-<sub>Designed & implemented <b>DataPrivacyShield</b>, a security middleware for the MCP platform that <b>tokenizes & masks PII</b> before it reaches LLMs — enabling secure AI-assisted workflows without exposing sensitive customer data</sub>
+<b>☁️ MCP Server on Microsoft Azure</b>
+<br />
+<sub>Architected <b>MCP server hosting &amp; deployment</b> on Microsoft Azure — covering scalability, security, authentication &amp; session management strategies</sub>
+<br /><br />
+<a href="#"><img src="https://img.shields.io/badge/Azure-Cloud_Native-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
 </td>
-<td>
-<b>☁️ MCP Hosting on Azure</b>
+<td align="center" width="33%">
 <br />
-<sub>Architected <b>MCP server hosting & deployment</b> strategies on Microsoft Azure — scalability, security, authentication & session management</sub>
+<b>🧩 Custom IntelliJ IDEA Plugin</b>
+<br />
+<sub>Designed &amp; developed a <b>custom IntelliJ IDEA Ultimate plugin</b> to enable product development directly within the IDE — reducing dependency on a separate web-based application</sub>
+<br /><br />
+<a href="#"><img src="https://img.shields.io/badge/IDE-Native-F97316?style=flat-square&logo=intellijidea&logoColor=white" alt="IDE" /></a>
 </td>
-<td>
-<b>🤝 Custom AI Agents</b>
+<td align="center" width="33%">
 <br />
-<sub>Designed and built <b>multiple custom AI Agents for the product</b> — purpose-built specialists for domain workflows, validations and automations</sub>
-</td>
-<td>
-<b>🛠️ GitHub Copilot Mastery</b>
+<b>🤖 GitHub Copilot (Expert)</b>
 <br />
-<sub>Advanced expertise in GitHub Copilot LLM models, custom Agents, SpecKit, MCP architecture, Knowledge extraction, search indexing and AI tool orchestration for real-world enterprise products and use cases</sub>
-</td>
-<td>
-<b>🧠 Claude Agent Mastery</b>
-<br />
-<sub>Advanced expertise on GitHub Copilot and Claude Agent capabilities including <b>Sub-agents, Skills, Instructions, Hooks, Sessions, Contexts, Tokenization and Specks</b></sub>
+<sub>Advanced expertise in <b>GitHub Copilot LLM models</b>, custom Agents, <b>SpecKit</b>, MCP architecture, knowledge extraction, search indexing &amp; AI tool orchestration for real-world enterprise products</sub>
+<br /><br />
+<a href="#"><img src="https://img.shields.io/badge/GitHub_Copilot-Expert-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" /></a>
 </td>
 </tr>
 </table>
@@ -250,6 +287,48 @@ class Arivazhagan_S:
 <br />
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+# 🚀 Key Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="46" alt="Reserves" /></a>
+<br /><br />
+<b>Reserves &amp; Settlements Management</b>
+<br />
+<sub>Architected a core financial tracking module within the enterprise legal management product — a <b>real-time legal financial ledger</b> enabling <b>Citi Bank</b> to track reserve allocations, record settlements, calculate running balances &amp; generate financial statements. Productized across additional global banking clients</sub>
+<br /><br />
+<a href="#"><img src="https://img.shields.io/badge/Wolters_Kluwer-Financial-22D3EE?style=flat-square" alt="WK" /></a>
+</td>
+<td align="center" width="33%">
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="46" alt="Cloning" /></a>
+<br /><br />
+<b>Configuration Cloning Module</b>
+<br />
+<sub>Built an enterprise admin feature for <b>Citi Bank</b> that automates cloning of entire org-unit setups — security groups, data mappings, conditional UI rules &amp; access controls — reducing config of <b>100+ units from hours to a single-click async workflow</b>. Adopted into the core product &amp; sold commercially</sub>
+<br /><br />
+<a href="#"><img src="https://img.shields.io/badge/Wolters_Kluwer-Productized-A78BFA?style=flat-square" alt="WK" /></a>
+</td>
+<td align="center" width="33%">
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="46" alt="OneApp" /></a>
+<br /><br />
+<b>OneApp — Real-Time GPS &amp; Maps</b>
+<br />
+<sub>Developed a <b>live GPS tracking module</b> within the Java microservices platform by integrating the <b>Google Maps API</b> with real-time telemetry streams from connected fleet devices — enabling dynamic vehicle location visualization, live route tracking &amp; GPS-based fleet monitoring across the entire <b>PENSKE</b> network in Germany</sub>
+<br /><br />
+<a href="#"><img src="https://img.shields.io/badge/Capgemini-Fleet_%26_Telematics-FFCC00?style=flat-square" alt="CG" /></a>
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
@@ -290,7 +369,7 @@ class Arivazhagan_S:
 
 <div align="center">
 
-# 💼 Projects & Experience
+# 💼 Professional Experience
 
 </div>
 
@@ -329,7 +408,7 @@ class Arivazhagan_S:
 </tr>
 <tr>
 <td align="center"><b>⚡ Role</b></td>
-<td>Java & Groovy Product Developer</td>
+<td>Java Full Stack & Groovy Developer</td>
 </tr>
 </table>
 
@@ -343,34 +422,34 @@ class Arivazhagan_S:
 <td valign="top" width="50%">
 
 **🔧 Backend**
-- End-to-end design and implementation of product customization & configurations
-- Core product development using Java Spring Boot with microservice architecture
-- Product customization and configuration with Groovy & JavaScript
-- Product integration with P2P systems using Java & Groovy
-- End-to-end functional and implementation testing of the product after code-level changes and customizations
-- 💼 Developed **Reserves and Settlements management system** for CITI Bank
+- Architected & delivered **end-to-end customizations & integrations** for flagship global banking clients across legal, regulatory & finance domains
+- Developed & maintained scalable **Java Spring Boot microservices** for core product enhancements & client-specific implementations
+- Engineered **P2P system integrations** using Java & Groovy for seamless cross-platform data exchange
+- Drove full-cycle delivery — requirements analysis & solution design through implementation, testing & production deployment
+- Executed thorough **functional, UAT & post-deployment validation** across all client configurations
+- 💼 Built the **Reserves & Settlements Management System** for Citi Bank
 
-**☁️ Cloud & Deployment**
-- Jenkins / Azure — Environments monitoring, health checks, configurations and log checks
+**☁️ Cloud & DevOps**
+- Managed **Jenkins CI/CD pipelines**; monitored Azure-hosted instances for uptime, performance & health
+- Maintained **Docker images**, performed log analysis & oversaw deployment pipeline configurations
 
 </td>
 <td valign="top" width="50%">
 
 **🎨 Frontend**
-- Product customization & configuration with JavaScript, HTML & CSS
+- Delivered client-specific UI customizations using JavaScript, HTML5 & CSS3
 
 **🗄️ Database**
-- Writing and developing SQL scripts from scratch
-- All Database and SQL related operations
+- Developed SQL scripts, performed data validation & supported DB operations across MS-SQL Server
 
 **🔁 Repository**
-- End-to-end workflow activity on Git, GitHub Desktop, Bitbucket
+- Git workflow — branching, conflict resolution, PRs & code reviews via Git CLI, GitHub Desktop & Bitbucket
 
 **🤝 Others**
-- Hands-on working experience with Jira, Confluence
+- Hands-on with Jira & Confluence for Agile tracking & documentation
 
 **🤖 AI**
-- Built **Custom AI Agents, MCP Servers, Agentic AIs, Workflow automations**
+- Built **Custom AI Agents, MCP Servers, Agentic AI & workflow automations** on top of the product
 
 </td>
 </tr>
@@ -429,13 +508,14 @@ class Arivazhagan_S:
 <td valign="top" width="50%">
 
 **🔧 Backend**
-- Development of Java RESTful APIs using Spring Boot with microservices architecture from scratch
-- ✅ JUnit development for Spring Boot projects up to **95% code coverage** from scratch using JUnit 4, Mockito and PowerMockito
-- 📖 Swagger documentation for the whole APIs
+- Designed & developed **Java RESTful APIs from the ground up** using Spring Boot microservices — the backbone of PENSKE's fleet management platform for the German market
+- ⚡ Hands-on with **Kafka messaging channels** to ingest & process continuous real-time data streams from connected fleet devices
+- ✅ Achieved **95% code coverage** with comprehensive unit & integration tests using JUnit 4, Mockito & PowerMockito
+- 📖 Produced complete **Swagger API documentation**; performed manual API testing & regression validation via Postman
 
 **☁️ Cloud & Deployment**
-- Manual and Auto deployment to cloud (PCF) through CLI & Bamboo
-- PCF — Applications/Instances monitoring → health checks, configurations and log monitoring
+- Manual & automated deployments to **PCF** via CLI & **Bamboo CI/CD pipelines**
+- PCF — applications/instances monitoring → health checks, configurations & log monitoring
 
 </td>
 <td valign="top" width="50%">
